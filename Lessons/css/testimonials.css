@@ -1,0 +1,38 @@
+.testimonials {
+    width: 100%;
+}
+
+.testimonials__inner {
+    background-color: #5C3249;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.testimonials__content {
+    width: 50%;
+    height: 490px;
+    text-align: left;
+    padding: 116px 170px;
+}
+
+.testimonials__img {
+    width: 50%;
+    height: 490px;
+}
+
+.testimonials__text {
+    font-family: 'Cardo';
+    font-style: italic;
+    font-size: 36px;
+    line-height: 49px;
+    color: var(--color-white);
+}
+
+.testimonials__title {
+    font-size: 13px;
+    color: var(--color-white);
+    line-height: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
