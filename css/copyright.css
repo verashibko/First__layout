@@ -1,0 +1,22 @@
+.footer__dark{
+    background-color: #2C3154;
+}
+.copyright {
+    width: 100%;
+}
+.copyright__about{
+    padding: 25px 625px;
+}
+.copyright__text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: var(--color-silver);
+    text-align: center;
+}
+span{
+    color: var(--color-white);
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 400;
+}
