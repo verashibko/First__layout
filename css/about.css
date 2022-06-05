@@ -1,6 +1,6 @@
 .about {
     width: 100%;
-    background: url(/img/header/bg.jpg) center/cover no-repeat;
+    background: url(./img/header/bg.jpg) center/cover no-repeat;
     padding-bottom: 120px;
 }
 
