@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+
+@import "root.css";
+@import "about.css";
+@import "basic.css";
+@import "button.css";
+@import "sections-main.css";
+@import "sections-footer.css";
